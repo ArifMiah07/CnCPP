@@ -9,7 +9,7 @@ int main()
     std::cout << "Plz enter ur name: ";
     // read the name
     std::string name; // define name
-    std::cin >> name; //read name
+    std::cin >> name; //read into
 
     // write a greeting
     std::cout << "Hello, " << name << "!" << std::endl;
